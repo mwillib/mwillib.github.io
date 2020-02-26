@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b029ad2-61ff-4527-875c-571563bd7f8d" name="Default Changelist" comment="" />
+    <list default="true" id="4b029ad2-61ff-4527-875c-571563bd7f8d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +69,7 @@
       <updated>1582710747228</updated>
       <workItem from="1582710748399" duration="89000" />
       <workItem from="1582711069826" duration="2048000" />
-      <workItem from="1582717164026" duration="1951000" />
+      <workItem from="1582717164026" duration="3085000" />
     </task>
     <servers />
   </component>
@@ -77,13 +80,25 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582727868278">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027/1680.23.1920.1057@0.23.1680.1027" timestamp="1582727868278" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1582727061437">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1680.1027/1680.23.1920.1057@0.23.1680.1027" timestamp="1582727061437" />
+    <state x="629" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582727823384">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="629" y="460" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1027/1680.23.1920.1057@0.23.1680.1027" timestamp="1582727823384" />
     <state x="100" y="123" width="1480" height="827" key="dock-window-1" timestamp="1582711254102">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="100" y="123" width="1480" height="827" key="dock-window-1/0.23.1680.1027/1680.23.1920.1057@0.23.1680.1027" timestamp="1582711254102" />
-    <state x="505" y="187" width="670" height="676" key="search.everywhere.popup" timestamp="1582726648615">
+    <state x="505" y="187" width="670" height="676" key="search.everywhere.popup" timestamp="1582727815289">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="505" y="187" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027/1680.23.1920.1057@0.23.1680.1027" timestamp="1582726648615" />
+    <state x="505" y="187" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027/1680.23.1920.1057@0.23.1680.1027" timestamp="1582727815289" />
   </component>
 </project>
