@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b029ad2-61ff-4527-875c-571563bd7f8d" name="Default Changelist" comment="" />
+    <list default="true" id="4b029ad2-61ff-4527-875c-571563bd7f8d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +36,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -57,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582710747228</updated>
       <workItem from="1582710748399" duration="89000" />
-      <workItem from="1582711069826" duration="1789000" />
+      <workItem from="1582711069826" duration="2048000" />
     </task>
     <servers />
   </component>
