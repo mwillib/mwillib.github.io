@@ -9,3 +9,11 @@ img {
     position: absolute;
     top: 50%;
 }
+
+button {
+    left: 50%;
+    margin-top: 275px;
+    margin-left: -30px;
+    position: absolute;
+    top: 50%;
+}
