@@ -1,16 +1,17 @@
 @import "style.css";
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah&display=swap');
 
 h1 {
     color: black;
-    font-family: "Nanum Brush Script", serif;
-    font-size: 72px;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 50px;
     display: flex;
     justify-content: center;
     margin: 25px;
 }
 ul {
-    font-family: "Nanum Brush Script", serif;
-    font-size: 36px;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 20px;
     list-style-type: none;
     margin: 0;
     padding: 0;
