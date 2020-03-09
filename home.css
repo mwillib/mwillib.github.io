@@ -1,5 +1,27 @@
 @import "style.css";
 
+h1 {
+    color: black;
+    font-family: "Nanum Brush Script", serif;
+    font-size: 72px;
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+}
+ul {
+    font-family: "Nanum Brush Script", serif;
+    font-size: 36px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 6px;
+    text-decoration: none;
+}
 .mike {
     display: flex;
     justify-content: center;
