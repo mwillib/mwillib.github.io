@@ -1,0 +1,7 @@
+@import "style.css";
+
+.button {
+    left: 50%;
+    position: absolute;
+    top: 50%;
+}

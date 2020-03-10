@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b029ad2-61ff-4527-875c-571563bd7f8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mikeflipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_hatred.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_hatred.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_hatred.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/no_thoughts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/no_thoughts.html" beforeDir="false" afterPath="$PROJECT_DIR$/no_thoughts.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -47,6 +47,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
@@ -77,7 +78,7 @@
       <workItem from="1582717164026" duration="4722000" />
       <workItem from="1583319056859" duration="1066000" />
       <workItem from="1583399897976" duration="2938000" />
-      <workItem from="1583496711208" duration="7488000" />
+      <workItem from="1583496711208" duration="11987000" />
     </task>
     <servers />
   </component>
@@ -88,10 +89,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="202" key="#Inspections" timestamp="1583753062150">
+    <state x="440" y="202" key="#Inspections" timestamp="1583837318578">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="440" y="202" key="#Inspections/0.23.1680.1027/-141.-1057.1920.1057@0.23.1680.1027" timestamp="1583753062150" />
+    <state x="440" y="202" key="#Inspections/0.23.1680.1027/-141.-1057.1920.1057@0.23.1680.1027" timestamp="1583837318578" />
     <state x="440" y="202" key="#Intentions" timestamp="1583503533878">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
