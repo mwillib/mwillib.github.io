@@ -17,7 +17,7 @@ h1 {
     font-size: 50px;
     display: flex;
     justify-content: center;
-    margin: 0;
+    margin: 1%;
     text-shadow: 2px 2px white;
 }
 ul {
@@ -38,10 +38,12 @@ a {
 .mike {
     display: flex;
     justify-content: center;
-    align-content: flex-end;
+    position: absolute;
     bottom: 0;
     left: 50%;
     right: 50%;
-    max-height: 500px;
-    min-height: 300px;
+    z-index: -1;
+}
+img.fixed {
+
 }
