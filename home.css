@@ -1,12 +1,23 @@
 @import "style.css";
-
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+body {
+    margin: 0;
+    padding: 0;
+    display: block;
+    height: 100%;
+}
 h1 {
     color: black;
     font-family: 'Gloria Hallelujah', cursive;
     font-size: 50px;
     display: flex;
     justify-content: center;
-    margin: 25px;
+    margin: 1%;
     text-shadow: 2px 2px white;
 }
 ul {
@@ -20,15 +31,17 @@ a {
     display: block;
     color: white;
     text-align: center;
-    padding: 6px;
+    padding: 0.5%;
     text-decoration: none;
     text-shadow: 1px 1px black;
 }
 .mike {
     display: flex;
     justify-content: center;
-    position: absolute;
+    align-content: flex-end;
     bottom: 0;
     left: 50%;
     right: 50%;
+    max-height: 500px;
+    min-height: 300px;
 }

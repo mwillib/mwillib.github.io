@@ -1,16 +1,17 @@
+const wins = []
+
 function mistake() {
     window.alert("you shouldnt have done that");
     confirmPageUnload();
+    document.getElementById('button').style.display='none';
 
     interceptUserInput(() => {
         startVibrateInterval();
         hideCursor();
-        document.getElementById('button').style.display='none';
         requestFullscreen();
         blockBackButton();
         fillHistory();
         focusWindows();
-
     });
 }
 
