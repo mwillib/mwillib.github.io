@@ -3,7 +3,7 @@ const wins = []
 function mistake() {
     window.alert("you shouldnt have done that");
     confirmPageUnload();
-    document.getElementById('button').style.display='none';
+    document.getElementById('buttons').style.display='none';
 
     interceptUserInput(() => {
         startVibrateInterval();
