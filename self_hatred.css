@@ -9,9 +9,9 @@ html {
 button {
     border: none;
     background-color: transparent;
-    padding: 10px;
     font-family: "Comic Sans MS", serif;
     font-size: 32px;
+    padding: 5%;
 }
 .buttons {
     display: flex;

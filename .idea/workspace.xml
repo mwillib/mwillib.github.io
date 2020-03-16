@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b029ad2-61ff-4527-875c-571563bd7f8d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advice.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advice.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/self_hatred.css" beforeDir="false" afterPath="$PROJECT_DIR$/self_hatred.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/self_hatred.html" beforeDir="false" afterPath="$PROJECT_DIR$/self_hatred.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -78,7 +79,7 @@
       <workItem from="1582717164026" duration="4722000" />
       <workItem from="1583319056859" duration="1066000" />
       <workItem from="1583399897976" duration="2938000" />
-      <workItem from="1583496711208" duration="24779000" />
+      <workItem from="1583496711208" duration="33243000" />
     </task>
     <servers />
   </component>
@@ -121,10 +122,11 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="505" y="248" key="run.anything.popup/0.23.1680.1027/-141.-1057.1920.1057@0.23.1680.1027" timestamp="1583766293487" />
-    <state x="505" y="187" width="670" height="676" key="search.everywhere.popup" timestamp="1583764150726">
+    <state x="505" y="187" width="670" height="676" key="search.everywhere.popup" timestamp="1584365998762">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="505" y="187" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027/-141.-1057.1920.1057@0.23.1680.1027" timestamp="1583764150726" />
     <state x="505" y="187" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027/1680.23.1920.1057@0.23.1680.1027" timestamp="1582727815289" />
+    <state x="505" y="187" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1584365998762" />
   </component>
 </project>
