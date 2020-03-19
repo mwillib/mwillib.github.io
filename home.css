@@ -1,6 +1,7 @@
 @import "style.css";
 html {
     height: 100%;
+    width: 100%;
     margin: 0;
     padding: 0;
 }
@@ -34,7 +35,7 @@ a {
     text-decoration: none;
     text-shadow: 1px 1px black;
 }
-.mike {
+.image {
     display: flex;
     justify-content: center;
     position: absolute;
